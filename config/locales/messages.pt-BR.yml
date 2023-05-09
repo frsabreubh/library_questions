@@ -1,0 +1,9 @@
+'pt-BR':
+  messages:
+    list_of_questions: Lista de Perguntas
+    list_of_subjects: Lista de Assuntos/Áreas
+    list_of_admins: Lista de Administradores
+    list_of_users: Lista de Usuários
+    confirm_delete: Tem certeza que deseja excluir?
+    edit: Editar
+    register: Cadastrar

@@ -1,0 +1,63 @@
+'pt-BR':
+  activerecord:
+    models:
+      admin:
+        one: Administrador
+        other: Administradores
+      user:
+        one: Usuario
+        other: Usuarios
+      question:
+        one: Pergunta
+        other: Perguntas
+      subject:
+        one: Assunto
+        other: Assuntos
+      user_profile:
+        one: Perfil do Usuário
+        other: Perfis dos Usuários
+    attributes:
+      admin:
+        id: Código
+        email: Email
+        password: Senha
+        password_confirmation: Confirmação da Senha
+        created_at: Criado em
+        updated_at: Atualizado em        
+        last_name: Sobrenome
+        first_name: Nome
+        address: Endereço
+        gender: Sexo
+        birthdate: Data de Nascimento
+      user:
+        id: Código
+        email: Email
+        password: Senha
+        password_confirmation: Confirmação da Senha
+        created_at: Criado em
+        updated_at: Atualizado em        
+        last_name: Sobrenome
+        first_name: Nome
+        address: Endereço
+        gender: Sexo
+        birthdate: Data de Nascimento
+      subject:
+        id: Código        
+        description: Descrição
+        created_at: Criado em
+        updated_at: Atualizado em
+      question:
+        id: Código
+        subject: Assunto/Área
+        subject_id: Assunto/Área
+        description: Descrição
+        created_at: Criado em
+        updated_at: Atualizado em
+      user_profile:
+        id: Código
+        created_at: Criado em
+        updated_at: Atualizado em
+        address: Endereço
+        gender: Sexo
+        birthdate: Data de Nascimento
+
