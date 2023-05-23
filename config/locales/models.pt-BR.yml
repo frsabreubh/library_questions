@@ -26,6 +26,7 @@
         updated_at: Atualizado em        
         last_name: Sobrenome
         first_name: Nome
+        zip_code: CEP
         address: Endereço
         gender: Sexo
         birthdate: Data de Nascimento
@@ -38,6 +39,7 @@
         updated_at: Atualizado em        
         last_name: Sobrenome
         first_name: Nome
+        zip_code: CEP
         address: Endereço
         gender: Sexo
         birthdate: Data de Nascimento
@@ -57,6 +59,7 @@
         id: Código
         created_at: Criado em
         updated_at: Atualizado em
+        zip_code: CEP
         address: Endereço
         gender: Sexo
         birthdate: Data de Nascimento
